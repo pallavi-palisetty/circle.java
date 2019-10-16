@@ -1,0 +1,152 @@
+//output for circle.java
+
+run:
+enter the radius of the circle
+5
+area=78.53981633974483
+perimeter=31.41592653589793
+BUILD SUCCESSFUL (total time: 10 seconds)
+
+
+
+............................................................................................................................................
+
+//output for binadd.java
+
+run:
+enter the 2 binary numbers
+10110
+10101
+the sum of the binary numbers
+101011BUILD SUCCESSFUL (total time: 56 seconds)
+
+
+..............................................................................................................................................
+
+//output for cube.java
+
+run:
+enter an integer
+4
+the cube of 0 is 0
+the cube of 1 is 1
+the cube of 2 is 8
+the cube of 3 is 27
+the cube of 4 is 64
+BUILD SUCCESSFUL (total time: 3 seconds)
+
+
+..............................................................................................................................................
+
+//output for inchconv.java
+
+run:
+enter lenth in inches
+23
+length in metres =0.5841999999999999
+BUILD SUCCESSFUL (total time: 6 seconds)
+
+
+.............................................................................................................................................
+
+//output for integer.java
+
+run:
+enter a number
+-4
+entered number is negetive
+BUILD SUCCESSFUL (total time: 14 seconds)
+
+
+..............................................................................................................................................
+
+//output for matrix.java
+
+
+run:
+enter number of rows an columns
+3
+3
+enter the elements of first matrix
+1
+2
+3
+
+4
+5
+6
+
+7
+8
+9
+
+enter the elements of second matrix
+1
+2
+3
+
+4
+5
+6
+
+7
+8
+9
+
+2 4 6
+8 10 12
+14 16 18
+BUILD SUCCESSFUL (total time: 26 seconds)
+
+
+..............................................................................................................................................
+
+
+//output for minconv.java
+
+
+run:
+enter number of minutes
+3456789
+the given minutes3456789is6 years and 210 days 
+BUILD SUCCESSFUL (total time: 10 seconds)
+
+
+................................................................................................................................................
+
+
+//output for smallest.java
+
+run:
+enter 3 numbers
+34
+56
+45
+34 is smallest
+BUILD SUCCESSFUL (total time: 5 seconds)
+
+
+...................................................................................................................................................
+
+
+//output for string.java
+
+
+
+run:
+enter a string
+aye aye
+the number of vowels are 4
+BUILD SUCCESSFUL (total time: 7 seconds)
+
+..............................................................................................................................................
+
+//output for sumdigit.java
+
+run:
+enter a number
+456
+sum of digits is 15
+BUILD SUCCESSFUL (total time: 9 seconds)
+
+...........................................................................................................................................
